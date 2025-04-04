@@ -1,0 +1,35 @@
+.departamentoBtn:hover {
+  color: rgb(47, 47, 255);
+}
+.scrollbar {
+  scrollbar-width: thin; /* Para Firefox */
+  scrollbar-color: #cccccc transparent;
+}
+
+.background-img {
+  background-color: #e7e7ea;
+  background-image: url("./assets/cadeira.png");
+  background-repeat: no-repeat;
+  background-position: 20%;
+  background-size: 70vh;
+}
+
+.font-diferenciada {
+  font-family: "Nunito", sans-serif;
+}
+
+.swiper-slide {
+  transition: opacity 0.5s ease-in-out;
+}
+
+.swiper-pagination-bullet-active {
+  background: rgb(41, 41, 41) !important;
+}
+
+.buttons-slide {
+  position: relative;
+  top: 180px;
+  z-index: 10;
+  width: 103%;
+  left: -1.5%;
+}
