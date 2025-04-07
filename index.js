@@ -24,4 +24,3 @@ document.addEventListener("DOMContentLoaded", function () {
   setupDropdown("departamentoBtn", "dropdown");
   setupDropdown("departamentoBtn2", "dropdown2");
 });
-
