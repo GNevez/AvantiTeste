@@ -2,7 +2,7 @@
   color: rgb(47, 47, 255);
 }
 .scrollbar {
-  scrollbar-width: thin; /* Para Firefox */
+  scrollbar-width: thin;
   scrollbar-color: #cccccc transparent;
 }
 
