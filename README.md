@@ -11,6 +11,7 @@ O principal objetivo deste projeto foi demonstrar minhas habilidades com as tecn
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (ES6+)**
+- **Tailwind CSS**
 
 ## Funcionalidades
 
