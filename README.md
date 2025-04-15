@@ -1,4 +1,4 @@
-# Projeto: Réplica Innovation Class - Avanti
+# Projeto: E-commerce Innovation Class - Avanti
 
 Este projeto é uma **réplica fiel de um mockup no Figma**, desenvolvida com **HTML**, **CSS** e **JavaScript**, como parte de um **teste técnico** para o processo do programa de estágio **Innovation Class** da empresa **Avanti**.
 
