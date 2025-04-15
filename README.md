@@ -25,7 +25,7 @@ Você pode clonar este repositório e abrir o arquivo `index.html` diretamente n
 ```bash
 git clone https://github.com/gnevez/AvantiTeste.git
 cd AvantiTeste
-
+```
 
 ## Screenshots
 
